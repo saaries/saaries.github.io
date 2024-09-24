@@ -1,24 +1,28 @@
-title: AA
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: "Xinyan Li's Homepage"
+url: "https://saaries.github.io"
+author: "Xinyan Li"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+template_url: "https://github.com/ankitsultana/researcher/tree/gh-pages"
+template_name: "template designed by Ankit Sultana"
+footer_text: ""
+last_modified_at: "September-2024"
+
+google_scholar: "https://scholar.google.com"
+linkedin: "https://www.linkedin.com"
+github: "https://github.com/saaries"
+dblp: "https://dblp.org"
 
 sass:
-    style: compressed
+    style: expanded 
     sass_dir: _sass
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: ""
  - name: "Resume"
    link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
