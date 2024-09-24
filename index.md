@@ -40,8 +40,6 @@ My research lies in privacy and security. Specifically, I am interested in searc
 - 2018/06-2018/07: Intern Student, China Telecom
 - 2017/09-2018/02: Exchange Student, Tianjin University
 - 2015/09-2019/06: B.Eng. in Computer Science, South China University of Technology
-- 2016/09-2023/12: Ph.D. in Control Science and Engineering, Xi'an Jiaotong University
-- 2012/09-2016/06: B.Eng. in Eletrical Engineering, Xi'an Jiaotong University
 
 ---
 
@@ -51,11 +49,6 @@ My research lies in privacy and security. Specifically, I am interested in searc
 
 - (Published) **Xinyan Li**, Yuefeng Du, and Cong Wang. [When Deep Learning Meets Differential Privacy: Privacy, Security, and More](https://ieeexplore.ieee.org/document/9687525), **_IEEE Network_**, vol. 35, no. 6, 2022.
 
-- (Under review) **Xinyan Li**, Yuefeng Du, and Cong Wang. [RangeQC: A Query Control Framework for Range Query Leakage Quantification and Mitigation](https://ieeexplore.ieee.org/document/10272486), in **_The 43rd International Conference on Distributed Computing Systems (ICDCS)_**, 2023.
-
-- (Under review) **Xinyan Li**, Yuefeng Du, and Cong Wang. [When Deep Learning Meets Differential Privacy: Privacy, Security, and More](https://ieeexplore.ieee.org/document/9687525), **_IEEE Network_**, vol. 35, no. 6, 2022.
-
-- (Under review) **Xinyan Li**, Yuefeng Du, and Cong Wang. [When Deep Learning Meets Differential Privacy: Privacy, Security, and More](https://ieeexplore.ieee.org/document/9687525), **_IEEE Network_**, vol. 35, no. 6, 2022.
 
 ---
 
