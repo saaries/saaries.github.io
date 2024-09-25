@@ -10,7 +10,7 @@ PhD student
 <br>Tat Chee Avenue, Kowloon, Hong Kong SAR
 <br>Email: 
 <span class="email">
-xinyan<o>Y8oWuD9e86</o>li4-c<o>k0BGBnvtqb</o>@cityu<o>.ejAMuIe4Wr</o>.edu.hk
+xinyanli4-c AT my.cityu.edu.hk
 </span>
 
 <div class="icons">
