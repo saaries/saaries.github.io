@@ -17,10 +17,12 @@ footer_text: ""
 last_modified_at: "September-2026"
 
 nav:
-  - name: "About"
-    link: ""
+  - name: "English"
+    link: "/"
+  - name: "中文"
+    link: "/zh/"
   - name: "Resume"
-    link: "resume.pdf"
+    link: "/resume.pdf"
 
 sass:
   style: expanded
