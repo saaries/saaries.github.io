@@ -7,7 +7,7 @@ layout: default
 Senior Research Engineer
 <br>Huawei Hong Kong Research Center
 <br>Hong Kong SAR
-Email: <span class="email">xinyanli4-c AT my.cityu.edu.hk</span>
+<br>Email: <span class="email">xinyanli4-c AT my.cityu.edu.hk</span>
 
 [Google Scholar]({{ site.google_scholar }}) · [GitHub]({{ site.github }}) · [Resume](resume.pdf)
 
