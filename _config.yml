@@ -17,9 +17,9 @@ footer_text: ""
 last_modified_at: "September-2026"
 
 nav:
-  - name: "English"
+  - name: "EN"
     link: "/"
-  - name: "中文"
+  - name: "ZH"
     link: "/zh/"
   - name: "Resume"
     link: "/resume.pdf"

@@ -62,15 +62,16 @@
             <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}{{ page.home_path }}">{{ page.site_title | default: site.title }}</a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
+                    <li class="alignable pull-left nav-list">
                     {% if x.name == "Resume" %}
-                        <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                        <a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
                     {% else %}
-                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                        <a href="{{ x.link }}">{{ x.name }}</a>
                     {% endif %}
-                    {% if forloop.last == false %}
-                        /
-                    {% endif %}
-                        </li>
+                    </li>
+                    {% unless forloop.last %}
+                        <li class="alignable pull-left nav-separator" aria-hidden="true">/</li>
+                    {% endunless %}
                 {% endfor %}
             </ul>
         </div>
