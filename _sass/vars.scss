@@ -1,10 +1,14 @@
-$ink: #253a32;
-$ink-soft: #3f554c;
-$paper: #f7f5ef;
-$surface: #fffdf8;
-$accent: #d96f52;
-$accent-soft: #f3b49f;
-$sage: #6f9182;
-$muted: #68776f;
-$rule: #d9dfda;
-$max-width: 1120px;
+/*
+ * Customization Variables
+ */
+
+$accent: #FF0F00;
+$image-size: 85px;
+
+/*
+ * Build Variables, don't touch
+ */
+
+$max-width: 700px;
+$med-width: 600px;
+$small-width: 480px;

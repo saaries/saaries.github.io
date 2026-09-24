@@ -1,5 +1,4 @@
-title: "Xinyan Li"
-tagline: "LLM Research Engineer"
+title: "Xinyan Li's Homepage"
 description: "LLM research engineer working on post-training, tool-integrated mathematical reasoning, and efficient inference."
 url: "https://saaries.github.io"
 baseurl: ""
@@ -11,25 +10,18 @@ markdown: kramdown
 google_scholar: "https://scholar.google.com/citations?user=t1HQTIIAAAAJ"
 github: "https://github.com/saaries"
 
+footer: yes
+template_url: "https://github.com/ankitsultana/researcher/tree/gh-pages"
+template_name: "template designed by Ankit Sultana"
+footer_text: ""
+last_modified_at: "September-2026"
+
 nav:
   - name: "About"
-    link: "/#about"
-  - name: "Work"
-    link: "/#work"
-  - name: "Experience"
-    link: "/#experience"
-  - name: "Publications"
-    link: "/#publications"
-  - name: "Résumé"
-    link: "/resume.pdf"
-    external: true
-
-last_modified_at: "September 2026"
+    link: ""
+  - name: "Resume"
+    link: "resume.pdf"
 
 sass:
-  style: compressed
+  style: expanded
   sass_dir: _sass
-
-exclude:
-  - README.md
-  - LICENSE
