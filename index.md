@@ -56,6 +56,7 @@ I received my Ph.D. in Computer Science from [City University of Hong Kong](http
 - **2021–2025:** Ph.D. in Computer Science, City University of Hong Kong
   - GPA: 3.87/4.0
   - Thesis: *Designing Leakage-Aware Mechanisms for Encrypted Search Systems*
+  - Supervisor: [Prof. Cong Wang](https://www.cs.cityu.edu.hk/~congwang/)
 - **2019–2020:** M.Sc. in Computer Science, with Distinction, City University of Hong Kong
 - **2015–2019:** B.Eng. in Computer Science and Technology, South China University of Technology
   - Academic exchanges at Tianjin University and ITMO University
